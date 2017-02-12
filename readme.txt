@@ -6,3 +6,4 @@ Creating a new branch is quick and simple.
 Testing tags.
 Testing tags,again.
 v0.2
+Final tag test.V0.3
