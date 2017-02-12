@@ -8,3 +8,4 @@ Testing tags,again.
 v0.2
 Final tag test.V0.3
 END.v0.4
+REAL EDN.v0.5
